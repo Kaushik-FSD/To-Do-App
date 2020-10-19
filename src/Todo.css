@@ -1,0 +1,17 @@
+.todo__list {
+  text-align: center;
+  display: flex;
+}
+
+.delete__button {
+  margin-right: 500px;
+  margin-top: 20px;
+}
+
+.input_space {
+  margin-left: 10px;
+}
+
+.span__space {
+  margin-left: 340px;
+}
